@@ -1,0 +1,198 @@
+.tweet{
+    color: rgb(27, 106, 217);
+    background-color: white;
+    transition: background-color 0.5s;
+    height: 50px;
+    width: 80px;
+    border-radius: 16px;
+    border: 1px solid ;
+    font-size: 15px;
+    font-weight: bold;
+    margin-left: 8px;
+    transition: box-shadow 1s;
+
+
+}
+
+.tweet:hover{
+    background-color: rgb(36, 116, 197);
+    color:white;
+    box-shadow: 5px 7px 10px rgba(0,0,0,0.5);
+}
+
+.subscribe{
+    margin-left: 8px;
+}
+
+.request{
+    background-color:rgb(134, 18, 192);
+    color: white;
+    height:30px;
+    width: 80px;
+    font-weight: bold;
+    border-radius: 4px;
+    border:none;
+    padding: 4px;
+}
+.request:hover{
+    box-shadow: 5px 7px 10px rgba(0,0,0,0.5);
+    transition:box-shadow 0.7s;
+    opacity:0.8;
+}
+
+p{
+    font-family: Roboto,system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight:10px bold;
+    font-size: 20px;
+}
+
+h3{
+    color: rgb(45, 194, 32);
+
+}
+
+.atc{
+    background-color: rgb(238, 241, 5);
+    color: black;
+    height: 30px;
+    width: 100px;
+    margin-left: 8px;
+    border-radius: 13px;
+    border: 0.5px ;
+}
+.bn{
+    background-color: rgb(235, 182, 9);
+    color: rgb(36, 33, 27);
+    margin-left: 8px;
+    border-radius: 15px;
+    border: none ;
+    padding-left:18px;
+    padding-top: 10px;
+    padding-right: 18px;
+    padding-bottom: 10px;
+    vertical-align: top;
+}
+
+.vt{
+    font-family: Arial;
+    font-size: 20px;
+    font-weight:bold; 
+    width: 500px;
+    line-height: 30px;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+.vid{
+    font-family: Arial;
+    font-size: 14px;
+    color:grey;
+    margin: 4px;
+    font-weight: bold; 
+    display: inline-block;
+}
+
+.name{
+    font-family: Arial;
+    font-size: 20px;
+    color:rgb(29, 26, 26);
+    margin-top:5px;
+    
+}
+
+.vd{
+    font-family: Arial;
+    font-size: 15px; 
+    width: 400px;
+    line-height: 30px;
+    margin-bottom: 0;
+
+}
+
+.apple{
+    font-weight: 600;
+    font-family: Arial;
+    background-color: red;
+    color: wheat;
+    text-align: center;
+    padding-top:10px;
+    padding-bottom:10px;
+    border: 2px solid;
+}
+
+.vid1{
+    display: inline-block;
+    border: 3px;
+    border-color: black;
+    
+
+}
+
+.vid2{
+    display: inline-block;
+    border: 3px;
+    border-color: black;
+    margin-left: 15px;
+    
+
+}
+
+.notification{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgb(99, 87, 87);
+    color:wheat;
+    border-style:solid;
+    border-width: 4px;
+    border-color: yellow;
+
+}
+
+.sat{
+    height: 300px;
+    width: 460px;
+    border: 11px;
+    border-color: rgb(73, 69, 89);
+    object-fit:cover;
+    object-position: bottom;
+    display: block;
+}
+
+.notification{
+    height: 70px;
+    width:200px;
+    background-color: rgb(61, 60, 59);
+    
+}
+
+img{
+   border-radius: 10px;
+}
+
+.search{
+    display: block;
+    border: 2px;
+    height: 50px;
+    width: 430px;
+}
+
+.bs{
+    width: 55px;
+    background-color: rgb(222, 222, 17);
+    border-radius: 60px;
+    
+}
+
+.profile{
+    display: inline-block;
+    width: 80px;
+
+}
+
+.desc{ 
+    display: inline-block;
+
+}
+
+.row2{
+    display: grid;
+    grid-template-columns: 55px 200px;
+}

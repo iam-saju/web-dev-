@@ -1,0 +1,68 @@
+.bell{
+    width: 200px;
+    box-shadow: 3px 2px 5px rgba(0, 0, 0, 0.2);
+    display: inline-block;
+}
+
+.palmer{
+    width: 200px;
+    box-shadow: 3px 2px 5px rgba(0, 0, 0, 0.2);
+    display: inline-block;
+    margin-left: 6px;
+}
+
+.martinelli{
+    width: 200px;
+    box-shadow: 3px 2px 5px rgba(0, 0, 0, 0.2);
+    display: inline-block;
+    margin-left: 6px;
+}
+
+
+
+.garnacho{
+    width: 200px;
+    box-shadow: 3px 2px 5px rgba(0, 0, 0, 0.2);
+    display: inline-block;
+    margin-left: 6px;
+    margin-top: 6px;
+}
+
+
+.b{
+    width: 180px;
+    height: 200px;
+    object-fit: cover;
+    margin-left: 10px;
+    margin-top: 6px;
+}s
+
+p{
+    font-family:cursive;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.name{
+    font-size: 20px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+button{
+    margin-left: 2px;
+    margin-bottom: 3px;
+    font-size: 16px;
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-bottom: 10px;
+    padding-right: 20px;
+    border-radius: 6px;
+    border: none;
+    color: white;
+    background-color: rgb(97, 97, 215);
+}
+
+div:hover{
+    background-color: rgb(229, 243, 31);
+    color:rgb(221, 9, 9);
+}
